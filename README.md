@@ -1,2 +1,3 @@
 # Demo
-This is my first gitup repository
+This is my first git repository
+Author - Arhant Ved 
